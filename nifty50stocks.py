@@ -97,7 +97,7 @@ df1.show()
 nifty50stocksDividens1 = df1.dropDuplicates()
 nifty50stocksDividens1.show(10)
 
-# To save the Dataframe as a cvs file 
+# To save the Dataframe as a cvs file.
 f1= open(filename1, "w")
 nifty50stocksDividens1.write.format("csv").mode("overwrite").options(header=True).save("/content/sample_data")
 f1.close()
