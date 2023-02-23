@@ -1,0 +1,62 @@
+[
+  {
+    "empno": "9369",
+    "ename": "SMITH",
+    "designation": "CLERK",
+    "manager": "7902",
+    "hire_date": "12/17/1990",
+    "sal": "800",
+    "deptno": "20",
+    "location": "BANGALORE"
+  },
+    {
+        "empno": "9499",
+        "ename": "ALLEN",
+        "designation": "SALESMAN",
+        "manager": "7698",
+        "hire_date": "2/20/1981",
+        "sal": "1600",
+        "deptno": "30",
+        "location": "HYDERABAD"
+    },
+    {
+        "empno": "9521",
+        "ename": "WARD",
+        "designation": "SALESMAN",
+        "manager": "7698",
+        "hire_date": "2/22/1981",
+        "sal": "1250",
+        "deptno": "30",
+        "location": "PUNE"
+    },
+    {
+        "empno": "9566",
+        "ename": "TURNER",
+        "designation": "MANAGER",
+        "manager": "7839",
+        "hire_date": "4/2/1981",
+        "sal": "2975",
+        "deptno": "20",
+        "location": "MUMBAI"
+    },
+    {
+        "empno": "9654",
+        "ename": "MARTIN",
+        "designation": "SALESMAN",
+        "manager": "7698",
+        "hire_date": "9/28/1981",
+        "sal": "1250",
+        "deptno": "30",
+        "location": "CHENNAI"
+    },
+    {
+        "empno": "9369",
+        "ename": "SMITH",
+        "designation": "CLERK",
+        "manager": "7902",
+        "hire_date": "12/17/1980",
+        "sal": "800",
+        "deptno": "20",
+        "location": "KOLKATA"
+    }
+]
